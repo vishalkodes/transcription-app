@@ -50,7 +50,7 @@ export default function Microphone({ onStop }) {
         formData,
         {
           headers: {
-            Authorization: `Token b0f6c83f0c19ea1afb2c520e141d82db1ca9e0fb`, // Replace with your Deepgram API key
+            Authorization: `Token `, // Replace with your Deepgram API key
             "Content-Type": "multipart/form-data",
           },
         }
